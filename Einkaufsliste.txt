@@ -3,3 +3,7 @@ Eier
 Kuchen
 Kaugummi
 Kaffee
+
+Es fehlen noch folgende Sachen:
+- Süßigkeiten
+- Cola
